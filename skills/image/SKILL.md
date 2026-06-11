@@ -33,6 +33,37 @@ Gather this context (ask if not provided):
 
 ---
 
+## Brand Voice & Tone (Hedera)
+
+These rules govern the copy in and around the asset this skill produces (on-image text, headlines, captions, alt text, OG titles, and any accompanying post copy), not the instructions in this file. Hold all of it to the Hedera editorial standard before publishing.
+
+**Voice**
+- No first person. Never use "I", "we", "our", "us", or "let's". Name the product or brand, or address the reader as "you". Write "Hedera supports X" or "You can now do X", not "We're excited to ship X".
+- No hype or superlatives: revolutionary, game-changing, groundbreaking, incredible, amazing, explosive, seamless, cutting-edge, must-have, world-class. Let the substance carry it.
+- No negative framing of competitors or prior approaches. Avoid "unlike X", "better than", "until now", "tired of clunky tools", "say goodbye to". Describe what the thing does.
+- Honest, never liability-creating. No fabricated stats or testimonials, no prescriptive "we recommend". Present options and tradeoffs and let the reader decide.
+
+**Specificity**
+- Concrete over vague: "10,000 TPS with 3-5 second finality", not "blazing fast".
+- Numbers need context. Use active or current activity, not vanity totals since launch.
+
+**Formatting**
+- No emojis in on-image text, captions, or post copy.
+- Title case headings and titles: capitalize each word except articles and short prepositions, unless they start the line.
+- Straight quotes ("..."), not curly.
+- When the image carries a call to action, make it one clear, concrete ask.
+
+**Anti-AI-writing patterns to avoid** (from the humanizer standard)
+- Em-dash overuse (prefer commas or periods) and forced rule-of-three groupings.
+- Significance inflation ("stands as a testament", "pivotal moment", "evolving landscape").
+- Superficial "-ing" tails ("..., highlighting its importance", "..., showcasing X").
+- Copula avoidance: write "is" and "has", not "serves as", "boasts", or "features".
+- Negative parallelisms ("not just X, it's Y") and false ranges ("from X to Y").
+- Inline-header vertical lists (**Label:** sentence), filler ("in order to"), and hedging.
+- Generic upbeat closers ("the future is bright", "exciting things ahead").
+
+---
+
 ## Choosing Your Approach
 
 Pick the right tool for the job:

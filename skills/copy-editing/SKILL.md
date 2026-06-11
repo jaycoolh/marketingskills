@@ -24,9 +24,33 @@ Good copy editing isn't about rewriting—it's about enhancing. Each pass focuse
 
 ---
 
-## The Seven Sweeps Framework
+## Brand Voice & Tone (Hedera)
 
-Edit copy through seven sequential passes, each focusing on one dimension. After each sweep, loop back to check previous sweeps aren't compromised.
+These rules govern the copy this skill edits and produces, not the instructions in this file. Hold every edit to the Hedera editorial standard.
+
+**Voice**
+- No first person. Never use "I", "we", "our", "us", or "let's". Name the product or brand, or address the reader as "you". Write "Hedera supports X" or "You can now do X", not "We're excited to ship X".
+- No hype or superlatives: revolutionary, game-changing, groundbreaking, incredible, amazing, explosive, seamless, cutting-edge, must-have, world-class. Let the substance carry it.
+- No negative framing of competitors or prior approaches. Avoid "unlike X", "better than", "until now", "tired of clunky tools", "say goodbye to". Describe what the thing does.
+- Honest, never liability-creating. No fabricated stats or testimonials, no prescriptive "we recommend". Present options and tradeoffs and let the reader decide.
+
+**Specificity**
+- Concrete over vague: "10,000 TPS with 3-5 second finality", not "blazing fast".
+- Numbers need context. Use active or current activity, not vanity totals since launch.
+
+**Formatting**
+- No emojis anywhere.
+- Title case headings: capitalize each word except articles and short prepositions, unless they start the heading.
+- Straight quotes ("..."), not curly. Bold sparingly, not on every term.
+- End every asset with one clear, concrete call to action.
+
+**Anti-AI-writing patterns** — em-dash overuse, rule-of-three padding, significance inflation, superficial "-ing" tails, copula avoidance, negative parallelisms, false ranges, inline-header vertical lists, filler, and generic upbeat closers are all enforced in **Sweep 8** below (full list in [references/anti-ai-writing.md](references/anti-ai-writing.md)).
+
+---
+
+## The Eight Sweeps Framework
+
+Edit copy through eight sequential passes, each focusing on one dimension. After each sweep, loop back to check previous sweeps aren't compromised.
 
 ### Sweep 1: Clarity
 
@@ -60,6 +84,7 @@ Edit copy through seven sequential passes, each focusing on one dimension. After
 **Focus:** Is the copy consistent in how it sounds?
 
 **What to check:**
+- First person ("I", "we", "our", "us", "let's") — flag and rewrite to brand-name or second-person ("you") per the Brand Voice section above
 - Shifts between formal and casual
 - Inconsistent brand personality
 - Mood changes that feel jarring
@@ -94,9 +119,9 @@ Edit copy through seven sequential passes, each focusing on one dimension. After
 **The So What test:**
 For every statement, ask "Okay, so what?" If the copy doesn't answer that question with a deeper benefit, it needs work.
 
-❌ "Our platform uses AI-powered analytics"
+❌ "The platform uses AI-powered analytics"
 *So what?*
-✅ "Our AI-powered analytics surface insights you'd miss manually—so you can make better decisions in half the time"
+✅ "AI-powered analytics surface the insights you'd miss manually, so you can decide in half the time"
 
 **Common So What failures:**
 - Feature lists without benefit connections
@@ -189,6 +214,8 @@ For every statement, ask "Okay, so what?" If the copy doesn't answer that questi
 
 **Focus:** Does the copy make the reader feel something?
 
+**Stay within the brand voice:** heighten emotion through concrete detail and real stakes, not hype or superlatives. The feeling should come from a specific outcome ("cut a 4-hour report to 15 minutes"), never from adjectives like "amazing" or "game-changing".
+
 **What to check:**
 - Flat, informational language
 - Missing emotional triggers
@@ -253,6 +280,18 @@ For every statement, ask "Okay, so what?" If the copy doesn't answer that questi
 4. Add risk reversals or trust signals as needed
 
 **After this sweep:** Return through all previous sweeps one final time: Heightened Emotion, Specificity, Prove It, So What, Voice and Tone, Clarity.
+
+---
+
+### Sweep 8: Anti-AI-Writing
+
+**Focus:** Does the copy read like a person wrote it, or like a model generated it?
+
+This is the humanizer pass. Run it last, after the copy is otherwise clean. Read the draft once asking only "what here looks AI-generated?", flag every tell, then rewrite each in plain language while preserving the meaning. Read once more for rhythm — sentences should vary in length and sound natural aloud.
+
+Scan for: significance inflation, superficial "-ing" tails, copula avoidance ("serves as"/"boasts" -> "is"/"has"), promotional filler, negative parallelisms ("not just X, it's Y"), forced rule-of-three padding, false ranges, em-dash overuse, inline-header vertical lists, AI vocabulary (delve, underscore, leverage, tapestry, testament), curly quotes, stray emojis, generic upbeat closers, and any first person that slipped through.
+
+**For the full pattern list with before/after examples**: see [references/anti-ai-writing.md](references/anti-ai-writing.md). After this sweep, the copy should pass a final read with no AI tells and no brand-voice violations.
 
 ---
 
@@ -332,6 +371,8 @@ Use these for faster reviews when a full seven-sweep process isn't needed.
 | Robust | Strong |
 | Seamless | Smooth |
 | Cutting-edge | New/Modern |
+
+For hype and AI-vocabulary replacements (revolutionary, groundbreaking, delve, underscore, showcase, testament, pivotal, vibrant), see [references/anti-ai-writing.md](references/anti-ai-writing.md).
 
 **Watch for:**
 - Adverbs (usually unnecessary)
@@ -416,7 +457,8 @@ This iterative process ensures each edit doesn't create new problems while respe
 
 - [Plain English Alternatives](references/plain-english-alternatives.md): Replace complex words with simpler alternatives
 - [Content Refresh](references/content-refresh.md): Full checklist, refresh vs. rewrite matrix, and cadence guide
-- [Copy Editing Checklist](references/checklist.md): Full QA checklist across all seven sweeps
+- [Copy Editing Checklist](references/checklist.md): Full QA checklist across all sweeps
+- [Anti-AI-Writing Pass](references/anti-ai-writing.md): Sweep 8 detail — full humanizer pattern list with before/after examples
 
 ---
 

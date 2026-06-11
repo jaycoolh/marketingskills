@@ -44,6 +44,37 @@ Gather this context (ask if not provided):
 
 ---
 
+## Brand Voice & Tone (Hedera)
+
+These rules govern the copy this skill produces, not the instructions in this file. Every headline, description, and primary text must follow the Hedera editorial standard before it ships.
+
+**Voice**
+- No first person. Never use "I", "we", "our", "us", or "let's". Name the product or brand, or address the reader as "you". Write "Hedera supports X" or "You can now do X", not "We're excited to ship X".
+- No hype or superlatives: revolutionary, game-changing, groundbreaking, incredible, amazing, explosive, seamless, cutting-edge, must-have, world-class. Let the substance carry it.
+- No negative framing of competitors or prior approaches. Avoid "unlike X", "better than", "until now", "tired of clunky tools", "say goodbye to". Describe what the thing does.
+- Honest, never liability-creating. No fabricated stats or testimonials, no prescriptive "we recommend". Present options and tradeoffs and let the reader decide.
+
+**Specificity**
+- Concrete over vague: "10,000 TPS with 3-5 second finality", not "blazing fast".
+- Numbers need context. Use active or current activity, not vanity totals since launch.
+
+**Formatting**
+- No emojis anywhere.
+- Title case headings: capitalize each word except articles and short prepositions, unless they start the heading.
+- Straight quotes ("..."), not curly. Bold sparingly, not on every term.
+- End every asset with one clear, concrete call to action.
+
+**Anti-AI-writing patterns to avoid** (from the humanizer standard)
+- Em-dash overuse (prefer commas or periods) and forced rule-of-three groupings.
+- Significance inflation ("stands as a testament", "pivotal moment", "evolving landscape").
+- Superficial "-ing" tails ("..., highlighting its importance", "..., showcasing X").
+- Copula avoidance: write "is" and "has", not "serves as", "boasts", or "features".
+- Negative parallelisms ("not just X, it's Y") and false ranges ("from X to Y").
+- Inline-header vertical lists (**Label:** sentence), filler ("in order to"), and hedging.
+- Generic upbeat closers ("the future is bright", "exciting things ahead").
+
+---
+
 ## How This Skill Works
 
 This skill supports two modes:
@@ -150,7 +181,7 @@ Before writing individual headlines, establish 3-5 distinct **angles** — diffe
 | Outcome | "Achieve Y in Z days" |
 | Social proof | "Join 10,000+ teams who..." |
 | Curiosity | "The X secret top companies use" |
-| Comparison | "Unlike X, we do Y" |
+| Capability | "[Product] does Y, with [concrete proof point]" |
 | Urgency | "Limited time: get X free" |
 | Identity | "Built for [specific role/type]" |
 | Contrarian | "Why [common practice] doesn't work" |

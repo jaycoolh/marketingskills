@@ -38,6 +38,37 @@ Gather this context (ask if not provided):
 
 ---
 
+## Brand Voice & Tone (Hedera)
+
+These rules govern the copy this skill produces, not the instructions in this file. Every asset must follow the Hedera editorial standard before it ships.
+
+**Voice**
+- No first person. Never use "I", "we", "our", "us", or "let's". Name the product or brand, or address the reader as "you". Write "Hedera supports X" or "You can now do X", not "We're excited to ship X".
+- No hype or superlatives: revolutionary, game-changing, groundbreaking, incredible, amazing, explosive, seamless, cutting-edge, must-have, world-class. Let the substance carry it.
+- No negative framing of competitors or prior approaches. Avoid "unlike X", "better than", "until now", "tired of clunky tools", "say goodbye to". Describe what the thing does.
+- Honest, never liability-creating. No fabricated stats or testimonials, no prescriptive "we recommend". Present options and tradeoffs and let the reader decide.
+
+**Specificity**
+- Concrete over vague: "10,000 TPS with 3-5 second finality", not "blazing fast".
+- Numbers need context. Use active or current activity, not vanity totals since launch.
+
+**Formatting**
+- No emojis anywhere.
+- Title case headings: capitalize each word except articles and short prepositions, unless they start the heading.
+- Straight quotes ("..."), not curly. Bold sparingly, not on every term.
+- End every asset with one clear, concrete call to action.
+
+**Anti-AI-writing patterns to avoid** (from the humanizer standard)
+- Em-dash overuse (prefer commas or periods) and forced rule-of-three groupings.
+- Significance inflation ("stands as a testament", "pivotal moment", "evolving landscape").
+- Superficial "-ing" tails ("..., highlighting its importance", "..., showcasing X").
+- Copula avoidance: write "is" and "has", not "serves as", "boasts", or "features".
+- Negative parallelisms ("not just X, it's Y") and false ranges ("from X to Y").
+- Inline-header vertical lists (**Label:** sentence), filler ("in order to"), and hedging.
+- Generic upbeat closers ("the future is bright", "exciting things ahead").
+
+---
+
 ## Copywriting Principles
 
 ### Clarity Over Cleverness
@@ -64,7 +95,7 @@ Each section should advance one argument. Build a logical flow down the page.
 
 1. **Simple over complex** — "Use" not "utilize," "help" not "facilitate"
 2. **Specific over vague** — Avoid "streamline," "optimize," "innovative"
-3. **Active over passive** — "We generate reports" not "Reports are generated"
+3. **Active over passive** — "Generate reports automatically" not "Reports are generated"
 4. **Confident over qualified** — Remove "almost," "very," "really"
 5. **Show over tell** — Describe the outcome instead of using adverbs
 6. **Honest over sensational** — Fabricated statistics or testimonials erode trust and create legal liability
@@ -198,22 +229,12 @@ Examples:
 
 ## Voice and Tone
 
-Before writing, establish:
+The governing voice is defined in **Brand Voice & Tone (Hedera)** above — apply those rules to every piece of copy. Don't offer a personality menu (casual vs. bold vs. playful); the brand voice is fixed.
 
-**Formality level:**
-- Casual/conversational
-- Professional but friendly
-- Formal/enterprise
-
-**Brand personality:**
-- Playful or serious?
-- Bold or understated?
-- Technical or accessible?
-
-Maintain consistency, but adjust intensity:
-- Headlines can be bolder
-- Body copy should be clearer
-- CTAs should be action-oriented
+Within that voice, adjust intensity by placement:
+- Headlines can be sharper and more direct
+- Body copy should be clearer and more explanatory
+- CTAs should be action-oriented and concrete
 
 ---
 

@@ -38,6 +38,39 @@ Gather this context (ask if not provided):
 
 ---
 
+## Brand Voice & Tone (Hedera)
+
+These rules govern the copy this skill produces, not the instructions in this file. Every post, thread, caption, and script must follow the Hedera editorial standard before it ships.
+
+**Voice**
+- No first person. Never use "I", "we", "our", "us", or "let's". Name the product or brand, or address the reader as "you". Write "Hedera supports X" or "You can now do X", not "We're excited to ship X".
+- No hype or superlatives: revolutionary, game-changing, groundbreaking, incredible, amazing, explosive, seamless, cutting-edge, must-have, world-class. Let the substance carry it.
+- No negative framing of competitors or prior approaches. Avoid "unlike X", "better than", "until now", "tired of clunky tools", "say goodbye to". Describe what the thing does.
+- Honest, never liability-creating. No fabricated stats or testimonials, no prescriptive "we recommend". Present options and tradeoffs and let the reader decide.
+
+**Specificity**
+- Concrete over vague: "10,000 TPS with 3-5 second finality", not "blazing fast".
+- Numbers need context. Use active or current activity, not vanity totals since launch.
+
+**Formatting**
+- No emojis anywhere.
+- Title case headings: capitalize each word except articles and short prepositions, unless they start the heading.
+- Straight quotes ("..."), not curly. Bold sparingly, not on every term.
+- End every asset with one clear, concrete call to action.
+
+**Anti-AI-writing patterns to avoid** (from the humanizer standard)
+- Em-dash overuse (prefer commas or periods) and forced rule-of-three groupings.
+- Significance inflation ("stands as a testament", "pivotal moment", "evolving landscape").
+- Superficial "-ing" tails ("..., highlighting its importance", "..., showcasing X").
+- Copula avoidance: write "is" and "has", not "serves as", "boasts", or "features".
+- Negative parallelisms ("not just X, it's Y") and false ranges ("from X to Y").
+- Inline-header vertical lists (**Label:** sentence), filler ("in order to"), and hedging.
+- Generic upbeat closers ("the future is bright", "exciting things ahead").
+
+> Note on the templates below: this skill's stock hooks, pillars, and examples come from a general-audience personal-brand playbook. Many use first person ("I was wrong about...") or edgy framing ("Unpopular opinion"). For Hedera channels, reframe every one of them to the brand voice above before use. The "Personal" and "Behind-the-scenes" pillars and personal-brand framing don't apply to the Hedera brand account.
+
+---
+
 ## Platform Quick Reference
 
 | Platform | Best For | Frequency | Key Format |
@@ -83,15 +116,17 @@ For each pillar, ask:
 
 The first line determines whether anyone reads the rest.
 
-### Curiosity Hooks
-- "I was wrong about [common belief]."
-- "The real reason [outcome] happens isn't what you think."
-- "[Impressive result] — and it only took [surprisingly short time]."
+These formulas are rewritten for the Hedera brand voice (no first person, no hype). Don't reintroduce a personal narrator.
 
-### Story Hooks
-- "Last week, [unexpected thing] happened."
-- "I almost [big mistake/failure]."
-- "3 years ago, I [past state]. Today, [current state]."
+### Curiosity Hooks
+- "Most [audience] get [common belief] backwards."
+- "The real reason [outcome] happens isn't what you'd expect."
+- "[Impressive result], in [surprisingly short time]."
+
+### Story Hooks (anchor to the project or ecosystem, not a person)
+- "Last week, [unexpected thing] happened on [network/project]."
+- "[Project] nearly shipped [mistake], until [fix]."
+- "Three years ago, [past state]. Today, [current state]."
 
 ### Value Hooks
 - "How to [desirable outcome] (without [common pain]):"
@@ -99,9 +134,9 @@ The first line determines whether anyone reads the rest.
 - "Stop [common mistake]. Do this instead:"
 
 ### Contrarian Hooks
-- "Unpopular opinion: [bold statement]"
-- "[Common advice] is wrong. Here's why:"
-- "I stopped [common practice] and [positive result]."
+- "Common take: [statement]. The data says otherwise."
+- "[Common advice] doesn't hold up. Here's what the numbers show:"
+- "[Practice] gets dropped, and [positive result] follows."
 
 **For post templates and more hooks**: See [references/post-templates.md](references/post-templates.md)
 
