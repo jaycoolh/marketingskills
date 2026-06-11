@@ -32,7 +32,7 @@ Examples:
 - `/marketing-plan acme-saas`
 - `/marketing-plan` (will prompt for client name)
 
-On invocation, the skill reads `~/marketing-plans/{client-slug}/progress.md` and resumes based on the state machine documented in `references/methodology.md` Step 1.1.2 (fresh → INIT → REVIEW → FINALIZE → finalized). Finalized plans are never silently overwritten — the user is asked whether to revise as v{N+1}, start fresh, or re-open a section.
+On invocation, the skill reads `./marketing-plans/{client-slug}/progress.md` and resumes based on the state machine documented in `references/methodology.md` Step 1.1.2 (fresh → INIT → REVIEW → FINALIZE → finalized). Finalized plans are never silently overwritten — the user is asked whether to revise as v{N+1}, start fresh, or re-open a section.
 
 ## The three phases
 
@@ -207,7 +207,7 @@ What separates a good plan from a generic one:
 
 ## Output format
 
-The final deliverable is a single markdown file: `~/marketing-plans/{client-slug}/final_plan.md`.
+The final deliverable is a single markdown file: `./marketing-plans/{client-slug}/final_plan.md`.
 
 Headers (`## 1. Executive summary`, etc.) are H2 for clean Notion paste. Tables for any structured comparison (RACI, idea bank, ops stack). Status legend for the idea bank. Internal references to other sections use `§N` (e.g., "see §5 for Activation detail").
 
@@ -216,7 +216,7 @@ Length expectation: ~8,000–12,000 words for a comprehensive plan. Shorter is f
 ## File layout per plan
 
 ```
-~/marketing-plans/
+./marketing-plans/
 └── {client-slug}/
     ├── materials/         # Client-provided files (decks, audit output, brand-voice doc, etc.)
     ├── research.md        # Research record written during INIT
