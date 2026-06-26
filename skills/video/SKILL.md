@@ -50,7 +50,7 @@ These rules govern the copy in and around the asset this skill produces (scripts
 
 **Formatting**
 - No emojis in captions, on-screen text, or post copy.
-- Title case headings and titles: capitalize each word except articles and short prepositions, unless they start the line.
+- Sentence case headings and titles: capitalize only the first word and any proper nouns, the rest lowercase.
 - Straight quotes ("..."), not curly. 
 - End every video with one clear, concrete call to action.
 
