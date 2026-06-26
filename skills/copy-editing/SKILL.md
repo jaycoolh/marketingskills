@@ -40,7 +40,7 @@ These rules govern the copy this skill edits and produces, not the instructions 
 
 **Formatting**
 - No emojis anywhere.
-- Title case headings: capitalize each word except articles and short prepositions, unless they start the heading.
+- Sentence case headings: capitalize only the first word and any proper nouns, the rest lowercase.
 - Straight quotes ("..."), not curly. Bold sparingly, not on every term.
 - End every asset with one clear, concrete call to action.
 

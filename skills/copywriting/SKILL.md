@@ -54,9 +54,14 @@ These rules govern the copy this skill produces, not the instructions in this fi
 
 **Formatting**
 - No emojis anywhere.
-- Title case headings: capitalize each word except articles and short prepositions, unless they start the heading.
+- Sentence case headings: capitalize only the first word and any proper nouns, the rest lowercase.
 - Straight quotes ("..."), not curly. Bold sparingly, not on every term.
 - End every asset with one clear, concrete call to action.
+
+**Scope: copy only, no design commentary**
+- Write words, not visuals. Don't recommend or critique layout, color, typography, spacing, imagery style, or any "design system." The team follows established brand guidelines and will shape the visual treatment.
+- Don't describe how a section "should look." Describe what it should say.
+- When a section needs a visual, image, gif, or other produced asset to work, don't spec its appearance. Just flag that the asset is needed and what it has to communicate, then hand it to the asset-request workflow (creating a Notion design ticket for Yeny, or a Slack message to Siena for a form). See the project's CLAUDE.md / project instructions for that workflow.
 
 **Anti-AI-writing patterns to avoid** (from the humanizer standard)
 - Em-dash overuse (prefer commas or periods) and forced rule-of-three groupings.

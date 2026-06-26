@@ -49,7 +49,7 @@ These rules govern the copy in and around the asset this skill produces (on-imag
 
 **Formatting**
 - No emojis in on-image text, captions, or post copy.
-- Title case headings and titles: capitalize each word except articles and short prepositions, unless they start the line.
+- Sentence case headings and titles: capitalize only the first word and any proper nouns, the rest lowercase.
 - Straight quotes ("..."), not curly.
 - When the image carries a call to action, make it one clear, concrete ask.
 
